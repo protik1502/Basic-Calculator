@@ -8,6 +8,8 @@ A simple, interactive command-line calculator built using Python. This is my ver
   - Subtraction (`-`)
   - Multiplication (`*`)
   - Division (`/`)
+  - Modulo (' % ')
+  - Exponentiation (' ** ')
 - User-friendly terminal interface.
 
 ## 🛠️ How to Run
